@@ -1,2 +1,3 @@
-# Striven_ServiceScheduler
-Sync Google Calendar appointments to Striven Tasks
+# Google to Striven Service Scheduler
+
+This repository syncs Google Calendar events into Striven as service tasks.
